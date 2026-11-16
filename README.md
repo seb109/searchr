@@ -12,4 +12,4 @@ often times i've spent more time than i should have finding photos of myself in 
 5: after getting that value, will all the images in that folder be also converted to similiar dimensions
 6: how to solve 75% face only problems in images or similiar ones
 7: if all images are converted to such dimensions for easy checking then wouldn't it be computationally heavy
-8: if after comparing what should be shown as output the image itself or the path of the image
+8: if after comparing what should be shown as output the image itself or the path of the images
